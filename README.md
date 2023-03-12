@@ -17,4 +17,4 @@ Adopt a Pet Starter currently includes the following features:
 Adopt a Pet Starter is designed to be easily adapted to include additional features and functionality, such as storing pet data in a database. If you're interested in contributing to the project, feel free to fork the repo and submit a pull request with your changes.
 
 ## Credits
-This app was created by [Jay Lee] as part of a coding project. Special thanks to [Codecademy](https://www.codecademy.com) for this app.
+This app was created by Jay Lee as part of a coding project. Special thanks to [Codecademy](https://www.codecademy.com) for this app.
